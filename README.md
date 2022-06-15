@@ -76,23 +76,6 @@ This case the subscripts are running in normal mode.
 
 Note: On some windows subscripts may appear some errors/red text/etc. Don't worry, this is normal.
 
-# Note about Microsoft Store SubScript
-
-This script will install Microsoft Store and related software on the system, and is based on the
-script "LTSC-Add-MicrosoftStore" by kkkgo.
-https://github.com/kkkgo/LTSC-Add-MicrosoftStore
-
-My script simply download their package (https://github.com/lixuy/LTSC-Add-MicrosoftStore/archive/2019.zip) from
-their repository, unpack and copy on the main_script_folder\Extras, and process it (modify kkkgo script for remove pauses, and run it)
-
-![image](https://user-images.githubusercontent.com/3720302/138957688-73f09a62-19f7-4852-8ea4-67346fb3bfbb.png)
-
-Take note that first time you run this script, most probablyl will need to download the file, so this may take few minutes because the tool for download from command line, maybe not fast as internet browser.
-
-If the download fails, simply download the file and unpack on the following path:
-DNXDOScript_path\Extras\MicrosoftStore\
-
-
 # Windows Start Menu Entry
 
 The script adds a new Windows Start Menu entry, for launch again the script when you want.
