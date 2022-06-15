@@ -1,6 +1,6 @@
 # DNXDOScript ![image](https://user-images.githubusercontent.com/3720302/138952395-1b97a5be-0f24-4228-be5e-b8d8b80d37a7.png)
 
-Al the work is from Deen0X. I change some scripts to use in my windows rigs runing nicehas!
+Al the work is from Deen0X. I change some scripts to use in my windows rigs runing nicehas! scheduletask script is disable because i use schedule task ;)
 
 Debloat and Optimization Script for machines running Windows 10 for mining purposes
 
