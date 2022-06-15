@@ -4,7 +4,8 @@ call :getTotalRAM xRAM
 :: If you want to specific the size of the pagefile, you can define on the following variable
 :: Take enote this value is in KB, so if you want 1GB Virtual Memory, then you must set to 1024
 :: value -1 is for automatic calculation
-set UserDefinedVM=-1
+echo Set Virtaul memmory for mining in safe mode 20gb.
+set UserDefinedVM=20480
 
 echo It changes the boot configuration of Windows so that it is in effect every time you boot. 
 echo Not all computers and not all applications play nice with it. 
