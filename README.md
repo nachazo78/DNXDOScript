@@ -5,7 +5,7 @@ Al the work is from Deen0X. I change some scripts to use in my windows rigs runi
 Debloat and Optimization Script for machines running Windows 10 for mining purposes
 
 Download package
-[DNXDO_mining_Script.zip](https://github.com/nachazo78/DNXDOScript/blob/main/DNXDOS_Mining_Script.zip)
+[DNXDO_mining_Script.zip](https://github.com/nachazo78/DNXDOScript/raw/main/DNXDOS_Mining_Script.zip)
 
 This Script help to gain performance on your system, in two main ways:
 - First one, debloat windows. For this, i based on the W4RH4WK work on their project
