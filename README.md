@@ -1,14 +1,16 @@
 # DNXDOScript ![image](https://user-images.githubusercontent.com/3720302/138952395-1b97a5be-0f24-4228-be5e-b8d8b80d37a7.png)
 
-Debloat and Optimization Script for machines running Windows 10
+Al the work is from Deen0X. I change some scripts to use in my windows rigs runing nicehas!
+
+Debloat and Optimization Script for machines running Windows 10 for mining purposes
 
 Download package
-[DNXDOScript.zip](https://github.com/Deen0X/DNXDOScript/releases/download/v1.1/DNXDOScript.7z)
+[DNXDO_mining_Script.zip](https://github.com/Deen0X/DNXDOScript/releases/download/v1.1/DNXDOScript.7z)
 
 This Script help to gain performance on your system, in two main ways:
 - First one, debloat windows. For this, i based on the W4RH4WK work on their project
 https://github.com/W4RH4WK/Debloat-Windows-10
-- Second, i included many tweaks for improve performance on windows, focused on setup a gaming pc, or trying to get usable old machines such tablets, netbooks, old pcs, etc, that don´t have so much resources but can install windows 10.
+- Second, i included many tweaks for improve performance on windows, focused on setup a mining pc, or trying to get usable old machines such tablets, netbooks, old pcs, etc, that don´t have so much resources but can install windows 10.
 
 As extra, there are some Utils included with the package that may be interesting for users to run on their system
 
@@ -106,12 +108,10 @@ Thanks to TuberViejuner for this suggestion.
 
 # Note about virtual memory
 
-This script set the virtual memory of the device based on the installed RAM.
-Thinking on low powered devices, where usually don´t have so much RAM installed, is not the best to set a big ammount of virtual memory, because the system may get a downgrade in terms of performance (more virtual memory on low storage, then become the system slow and unresponsive), for this reason the script try to set a reasonable ammount of virtual memory depending on the RAM installed.
-
-There are some software or games that can´t run with low ram resources, such Yuzu, that need near to 4 or 5GB of virtual memory to run. If the case, then set manually the virual memory on the system, to allow these programs to run.
+This script set the virtual memory on 20gb.
+Thinking on mining 20gb is the safe amount of Vram for mining.
 
 
 Hope you found useful this script.
 
-Deen0X
+Nachazo78
