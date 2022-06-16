@@ -1,4 +1,4 @@
-# DNXDOScript ![image](https://user-images.githubusercontent.com/3720302/138952395-1b97a5be-0f24-4228-be5e-b8d8b80d37a7.png)
+# DNXDOScript ![image](https://github.com/nachazo78/nachazo78/blob/main/argentina.png)
 
 Al the work is from Deen0X. I change some scripts to use in my windows rigs runing nicehas!
 For example scheduled task script is disable because i use scheduled task for running scripts ;)
