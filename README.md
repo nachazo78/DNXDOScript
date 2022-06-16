@@ -1,4 +1,4 @@
-# DNXDOScript ![image](https://github.com/nachazo78/nachazo78/blob/main/argentina.png)
+# Nachazo Mining Script based on deen0x script ![image](https://github.com/nachazo78/nachazo78/blob/main/argentina.png)
 
 Al the work is from Deen0X. I change some scripts to use in my windows rigs runing nicehas!
 For example scheduled task script is disable because i use scheduled task for running scripts ;)
