@@ -6,7 +6,7 @@ For example scheduled task script is disable because i use scheduled task for ru
 Debloat and Optimization Script for machines running Windows 10 for mining purposes
 
 Download package
-[DNXDO_mining_Script.zip](https://github.com/nachazo78/Nachazo-Mining-Script/archive/refs/tags/v1.1.zip)
+[DNXDO_mining_Script.zip](https://github.com/nachazo78/Nachazo-Mining-Script/archive/refs/tags/v1.2.zip)
 
 This Script help to gain performance on your system, in two main ways:
 - First one, debloat windows. For this, i based on the W4RH4WK work on their project
