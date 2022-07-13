@@ -4,7 +4,7 @@ call :getTotalRAM xRAM
 :: If you want to specific the size of the pagefile, you can define on the following variable
 :: Take enote this value is in KB, so if you want 1GB Virtual Memory, then you must set to 1024
 :: value -1 is for automatic calculation
-set UserDefinedVM=-1
+set UserDefinedVM=20480
 
 echo Fix pagefile on Windows (this config is for GPD specific config, so you can change this to your own needs)
 echo there is no a general rule for set this value, because depends on the machine and their usage

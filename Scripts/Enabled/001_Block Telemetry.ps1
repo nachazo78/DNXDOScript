@@ -33,7 +33,7 @@ $domains = @(
     "a1621.g.akamai.net"
     "a1856.g2.akamai.net"
     "a1961.g.akamai.net"
-    #"a248.e.akamai.net"            # makes iTunes download button disappear (#43)
+    "a248.e.akamai.net"            # makes iTunes download button disappear (#43)
     "a978.i6g1.akamai.net"
     "a.ads1.msn.com"
     "a.ads2.msads.net"
@@ -142,7 +142,7 @@ $domains = @(
     "www.go.microsoft.akadns.net"
     #"www.msftncsi.com"                         # Issues may arise where Windows 10 thinks it doesn't have internet
     "client.wns.windows.com"
-    #"wdcp.microsoft.com"                       # may cause issues with Windows Defender Cloud-based protection
+    "wdcp.microsoft.com"                       # may cause issues with Windows Defender Cloud-based protection
     #"dns.msftncsi.com"                         # This causes Windows to think it doesn't have internet
     #"storeedgefd.dsx.mp.microsoft.com"         # breaks Windows Store
     "wdcpalt.microsoft.com"
@@ -191,7 +191,7 @@ $domains = @(
     # can cause issues with Skype (#79) or other services (#171)
     "apps.skype.com"
     "c.msn.com"
-    # "login.live.com"                  # prevents login to outlook and other live apps
+    "login.live.com"                  # prevents login to outlook and other live apps
     "pricelist.skype.com"
     "s.gateway.messenger.live.com"
     "ui.skype.com"
